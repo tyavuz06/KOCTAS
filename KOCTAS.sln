@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOCTAS.API", "KOCTAS.API.csproj", "{77BFD974-803E-4FF6-AC7B-7C2F3BA88506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOCTAS.Business", "..\KOCTAS.Business\KOCTAS.Business.csproj", "{D7F332DE-9B3E-4E91-B838-43DD650AE464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOCTAS.Data", "..\KOCTAS.Data\KOCTAS.Data.csproj", "{C4AC8048-2ED6-48DB-9281-4F491EC32977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOCTAS.Common", "..\KOCTAS.Common\KOCTAS.Common.csproj", "{1DCE693C-F8A7-4604-BC5A-92D1BA4CE40E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77BFD974-803E-4FF6-AC7B-7C2F3BA88506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BFD974-803E-4FF6-AC7B-7C2F3BA88506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BFD974-803E-4FF6-AC7B-7C2F3BA88506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BFD974-803E-4FF6-AC7B-7C2F3BA88506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F332DE-9B3E-4E91-B838-43DD650AE464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F332DE-9B3E-4E91-B838-43DD650AE464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F332DE-9B3E-4E91-B838-43DD650AE464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F332DE-9B3E-4E91-B838-43DD650AE464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4AC8048-2ED6-48DB-9281-4F491EC32977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4AC8048-2ED6-48DB-9281-4F491EC32977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4AC8048-2ED6-48DB-9281-4F491EC32977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4AC8048-2ED6-48DB-9281-4F491EC32977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DCE693C-F8A7-4604-BC5A-92D1BA4CE40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCE693C-F8A7-4604-BC5A-92D1BA4CE40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCE693C-F8A7-4604-BC5A-92D1BA4CE40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCE693C-F8A7-4604-BC5A-92D1BA4CE40E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {066E6FEB-35C1-46B8-862C-75DDD5C5D1B1}
+	EndGlobalSection
+EndGlobal
